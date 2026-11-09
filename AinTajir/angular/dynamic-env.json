@@ -1,0 +1,21 @@
+{
+  "production": true,
+  "application": {
+    "baseUrl":"https://aintajir-web",
+    "name": "AinTajir",
+    "logoUrl": ""
+  },
+  "oAuthConfig": {
+    "issuer": "https://aintajir-api/",
+    "redirectUri": "https://aintajir",
+    "clientId": "AinTajir_App",
+    "responseType": "code",
+    "scope": "offline_access openid profile email phone"
+  },
+  "apis": {
+    "default": {
+      "url": "https://aintajir-api",
+      "rootNamespace": "AinTajir"
+    }
+  }
+}

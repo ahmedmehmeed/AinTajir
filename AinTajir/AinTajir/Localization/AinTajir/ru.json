@@ -1,0 +1,9 @@
+{
+  "culture": "ru",
+  "texts": {
+    "AppName": "AinTajir",
+    "Welcome_Title": "Добро пожаловать",
+    "Welcome_Text": "Это минималистичный однослойный стартовый шаблон приложения для ABP Framework.",
+    "Menu:Home": "Главная"
+  }
+}
